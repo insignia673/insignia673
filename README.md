@@ -2,7 +2,7 @@
 - 👀 I’m interested in growing as a developer!
 - 🌱 I’m currently learning C#/C++ and more.
 - 💞️ I’m looking to collaborate on C# projects!
-- 📫 Contact: olopezmill08@gmail.com / Devinsignia.com
+- 📫 Contact: olopezmill08@gmail.com
 
 <!---
 insignia673/insignia673 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
